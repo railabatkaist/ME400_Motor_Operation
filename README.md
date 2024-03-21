@@ -14,6 +14,7 @@ Before you can compile and run the software, you need to install some prerequisi
     ```bash
     sudo apt update
     sudo apt install python3 python3-pip
+    sudo apt-get install python3-rpi.gpio
     ```
     ```bash
     pip3 install pyserial RPi.GPIO pygame
